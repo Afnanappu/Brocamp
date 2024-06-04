@@ -152,10 +152,12 @@ body {
 
 #sec-main-button1 {
     color: white;
+    cursor: pointer;
     background-color: #6200ea;
 }
 #sec-main-button2 {
     color: #5430a9;
+    cursor: pointer;
     border-color: #5430a9;
     padding: 14px 40px;
     background-color: transparent ;
